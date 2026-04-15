@@ -3,7 +3,7 @@
 	"name": "fdm_filament_pet",
 	"from": "system",
 	"instantiation": "false",
-	"inherits": "fdm_filament_common",
+	"inherits": "fdm_filament_pet",
 	"cool_plate_temp": [
 		"60"
 	],
